@@ -1,0 +1,9 @@
+{
+  "name": "AI Quest: Infinite Worlds",
+  "description": "A high-engagement sandbox adventure game where users create characters, animate worlds, and talk to AI NPCs using the full suite of Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
